@@ -1,2 +1,0 @@
-localhost	127.0.0.1
-gamea.clashofclans.com	192.168.1.10

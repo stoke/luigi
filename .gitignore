@@ -2,3 +2,5 @@
 *.swo
 
 node_modules/
+hosts.txt
+dump
